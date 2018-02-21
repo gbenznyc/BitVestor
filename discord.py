@@ -10,8 +10,8 @@ import unicodedata
 import time
 
 def loginDiscord(driver):
-	emailKey = "gbenz@bowdoin.edu"
-	passwordKey = "george7george"
+	emailKey = ""
+	passwordKey = ""
 	
 	#URL
 	discordLogin = 'https://discordapp.com/login'
